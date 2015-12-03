@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="europeanchampionshipsdbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="favoriteteamsuser">
+    <Key>
+      <PropertyRef Name="idFavoriteTeamsUser" />
+    </Key>
+    <Property Name="idFavoriteTeamsUser" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="teamName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="idUser" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="user" Relationship="Self.idUser" FromRole="favoriteteamsuser" ToRole="user" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="idUser" />
+    </Key>
+    <Property Name="idUser" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="login" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="favoriteteamsusers" Relationship="Self.idUser" FromRole="user" ToRole="favoriteteamsuser" />
+  </EntityType>
+  <Association Name="idUser">
+    <End Role="user" Type="Self.user" Multiplicity="1" />
+    <End Role="favoriteteamsuser" Type="Self.favoriteteamsuser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user">
+        <PropertyRef Name="idUser" />
+      </Principal>
+      <Dependent Role="favoriteteamsuser">
+        <PropertyRef Name="idUser" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="europeanchampionshipsdbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="favoriteteamsusers" EntityType="Self.favoriteteamsuser" />
+    <EntitySet Name="users" EntityType="Self.user" />
+    <AssociationSet Name="idUser" Association="Self.idUser">
+      <End Role="user" EntitySet="users" />
+      <End Role="favoriteteamsuser" EntitySet="favoriteteamsusers" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

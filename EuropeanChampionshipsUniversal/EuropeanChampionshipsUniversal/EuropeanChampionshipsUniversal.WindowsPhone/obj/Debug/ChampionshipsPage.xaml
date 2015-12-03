@@ -1,0 +1,63 @@
+﻿<Page
+    x:Class="EuropeanChampionshipsUniversal.ChampionshipsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:EuropeanChampionshipsUniversal"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    DataContext="{Binding Source={StaticResource Locator}, Path=Championships}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/grass.jpg"></ImageBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Resources>
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="White"/>
+                <Setter Property="Foreground" Value="Black"/>
+                <Setter Property="HorizontalAlignment" Value="Stretch"/>
+            </Style>
+            <Style TargetType="Image">
+                <Setter Property="Height" Value="48"/>
+            </Style>
+        </Grid.Resources>
+        <Image Grid.Row ="0" Grid.Column="0" Source="Assets/germany_round_icon_64.png"/>
+        <Image Grid.Row ="1" Grid.Column="0" Source="Assets/netherlands_round_icon_64.png"/>
+        <Image Grid.Row ="2" Grid.Column="0" Source="Assets/france_round_icon_64.png"/>
+        <Image Grid.Row ="3" Grid.Column="0" Source="Assets/england_round_icon_64.png"/>
+        <Image Grid.Row ="4" Grid.Column="0" Source="Assets/portugal_round_icon_64.png"/>
+        <Image Grid.Row ="5" Grid.Column="0" Source="Assets/spain_round_icon_64.png"/>
+        <Image Grid.Row ="6" Grid.Column="0" Source="Assets/italy_round_icon_64.png"/>
+        <Button Grid.Row="0" Grid.Column="1" Content="Bundesliga" CommandParameter="{Binding IDBundesliga}" Command="{Binding GoToRankingCommand}"/>
+        <Button Grid.Row="1" Grid.Column="1" Content="Eredivisie" CommandParameter="{Binding IDEreDivisie}" Command="{Binding GoToRankingCommand}"/>
+        <Button Grid.Row="2" Grid.Column="1" Content="Ligue 1" CommandParameter="{Binding IDLigue1}" Command="{Binding GoToRankingCommand}"/>
+        <Button Grid.Row="3" Grid.Column="1" Content="Premier League" CommandParameter="{Binding IDPremierLeaue}" Command="{Binding GoToRankingCommand}"/>
+        <Button Grid.Row="4" Grid.Column="1" Content="Primeira Liga" CommandParameter="{Binding IDPrimeiraLiga}" Command="{Binding GoToRankingCommand}"/>
+        <Button Grid.Row="5" Grid.Column="1" Content="Primera Division" CommandParameter="{Binding IDPrimeraDivision}" Command="{Binding GoToRankingCommand}"/>
+        <Button Grid.Row="6" Grid.Column="1" Content="SerieA" CommandParameter="{Binding IDSerieA}" Command="{Binding GoToRankingCommand}"/>
+        <Image Grid.Row ="0" Grid.Column="2" Source="Assets/bundesliga.png"/>
+        <Image Grid.Row ="1" Grid.Column="2" Source="Assets/eredivisie.jpg"/>
+        <Image Grid.Row ="2" Grid.Column="2" Source="Assets/ligue1.png"/>
+        <Image Grid.Row ="3" Grid.Column="2" Source="Assets/premierleague.jpg"/>
+        <Image Grid.Row ="4" Grid.Column="2" Source="Assets/primeiraliga.png"/>
+        <Image Grid.Row ="5" Grid.Column="2" Source="Assets/primeradivision.png"/>
+        <Image Grid.Row ="6" Grid.Column="2" Source="Assets/seriea.png"/>
+    </Grid>
+</Page>
+

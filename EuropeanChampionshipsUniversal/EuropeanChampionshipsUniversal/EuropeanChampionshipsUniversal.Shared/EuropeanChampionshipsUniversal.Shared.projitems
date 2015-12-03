@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>5eb0a0e9-64b6-471d-a512-9f7933c909a7</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>EuropeanChampionshipsUniversal</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Common\NavigationHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\ObservableDictionary.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\RelayCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Common\SuspensionManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DAL\ChampionshipsAPIAccess.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DAL\IChampionshipsDataAccess.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\AllTeams.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\LeagueTable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\LeagueTableTeam.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\LeagueTeam.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\LeagueTeams.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Link.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\LinksLeagueTable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\LinksLeagueTableTeam.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\LinksTeamInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\LinksTeamPlayers.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Player.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Players.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Results.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Team.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\TeamInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\TeamPlayer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\ChampionshipsViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\CompositionViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\FavoriteTeamsViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\MainViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\RankingViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\TeamViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\ViewModelLocator.cs" />
+  </ItemGroup>
+</Project>

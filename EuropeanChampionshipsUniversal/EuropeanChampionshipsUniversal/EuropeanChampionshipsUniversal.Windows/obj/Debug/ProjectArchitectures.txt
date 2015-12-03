@@ -1,0 +1,1 @@
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\EuropeanChampionshipsUniversal.Windows.csproj;neutral

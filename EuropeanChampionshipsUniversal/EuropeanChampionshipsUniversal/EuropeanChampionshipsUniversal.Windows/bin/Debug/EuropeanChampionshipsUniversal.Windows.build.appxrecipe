@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MAX-HP</Machine>
+    <WindowsUser>Max</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5a5199f6-f55e-4cf6-a1b0-a76bb779e206</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\EuropeanChampionshipsUniversal.Windows.exe">
+      <PackagePath>EuropeanChampionshipsUniversal.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\packages\Newtonsoft.Json.7.0.1\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\EuropeanChampionshipsUniversal.Windows.xr.xml">
+      <PackagePath>EuropeanChampionshipsUniversal.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\ChampionshipsPage.xbf">
+      <PackagePath>ChampionshipsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\CompositionPage.xbf">
+      <PackagePath>CompositionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\FavoriteTeamsPage.xbf">
+      <PackagePath>FavoriteTeamsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\RankingPage.xbf">
+      <PackagePath>RankingPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\TeamPage.xbf">
+      <PackagePath>TeamPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

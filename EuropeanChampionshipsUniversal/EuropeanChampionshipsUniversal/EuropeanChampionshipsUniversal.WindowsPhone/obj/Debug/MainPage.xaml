@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="EuropeanChampionshipsUniversal.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:EuropeanChampionshipsUniversal"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    DataContext="{Binding Source={StaticResource Locator}, Path=Main}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0" Command="{Binding GoToFavoriteCommand}">
+            <Button.Template>
+                <ControlTemplate>
+                    <Grid>
+                        <Image Source="Assets/favorites.jpg" Grid.Row="0"/>
+                        <TextBlock Text="Favorite teams" FontSize="40" Margin="10"  VerticalAlignment="Bottom"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button Grid.Row="1" Command="{Binding GoToChampionshipsCommand}">
+            <Button.Template>
+                <ControlTemplate>
+                    <Grid>
+                        <Image Source="Assets/championships.jpg"/>
+                        <TextBlock Text="Championships" FontSize="40" Margin="10"  VerticalAlignment="Bottom"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:Name="homeButton" Icon="Home" Label="Home"/>
+                <AppBarButton x:Name="favoritesButton" Icon="Favorite" Label="Favorites"/>
+                <AppBarButton x:Name="championshipsButton" Icon="AllApps" Label="Championships" />
+            </CommandBar.PrimaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

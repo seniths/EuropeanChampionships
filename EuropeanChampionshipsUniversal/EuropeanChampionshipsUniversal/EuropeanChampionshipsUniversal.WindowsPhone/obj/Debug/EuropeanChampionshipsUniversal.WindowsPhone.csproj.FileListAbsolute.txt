@@ -1,0 +1,319 @@
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.g.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.g.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.g.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.g.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.xaml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.xaml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.xaml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.xaml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\ChampionshipsPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\CompositionPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\FavoriteTeamsPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\TeamPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.xr.xml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.exe
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.pdb
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.build.appxrecipe
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.exe
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.pdb
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\ChampionshipsPage.xbf
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\CompositionPage.xbf
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\FavoriteTeamsPage.xbf
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\TeamPage.xbf
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.xr.xml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.exe
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.pdb
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.build.appxrecipe
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.g.i.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.g.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.g.i.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.g.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.g.i.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.g.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.g.i.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.g.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.xaml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.xaml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.xaml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.xaml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.xbf
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.xbf
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.xbf
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.xbf
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.exe
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.pdb
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Maxime\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Model.dll
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Model.pdb
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\RankingPage.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\RankingPage.g.cs
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\RankingPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\RankingPage.xaml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\RankingPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\DAL.dll
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\DAL.pdb
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\App.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\ChampionshipsPage.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\CompositionPage.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\FavoriteTeamsPage.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\MainPage.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\RankingPage.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\TeamPage.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.xr.xml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.exe
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.pdb
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\resources.pri
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.build.appxrecipe
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.g.i.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.g.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.g.i.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.g.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.g.i.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.g.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.g.i.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.g.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\RankingPage.g.i.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\RankingPage.g.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.g.i.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.g.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.xaml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.xaml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.xaml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.xaml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.xaml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\RankingPage.xaml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\RankingPage.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.xaml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.xbf
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.exe
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.pdb
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.csproj.GenerateResource.Cache
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\priconfig.xml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\layout.resfiles
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\resources.resfiles
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\pri.resfiles
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\qualifiers.txt
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\WrkFldr\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\ChampionshipsPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\CompositionPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\FavoriteTeamsPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\RankingPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\TeamPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.xr.xml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.exe
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.pdb
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\EuropeanChampionshipsUniversal.WindowsPhone.build.appxrecipe
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.g.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.g.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.g.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\RankingPage.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\RankingPage.g.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.g.i.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.g.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.xaml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.xaml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.xaml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ChampionshipsPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\FavoriteTeamsPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\TeamPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.xaml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\RankingPage.xaml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\CompositionPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\RankingPage.xbf
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.exe
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.pdb
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\EuropeanChampionshipsUniversal.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\ProjectArchitectures.txt

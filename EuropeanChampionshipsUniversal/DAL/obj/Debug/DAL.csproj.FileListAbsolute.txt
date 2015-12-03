@@ -1,0 +1,18 @@
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\DAL\bin\Debug\DAL.dll
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\DAL\bin\Debug\DAL.pdb
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\DAL\obj\Debug\DAL.dll
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\DAL\obj\Debug\DAL.pdb
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\DAL\bin\Debug\Model.dll
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\DAL\bin\Debug\Model.pdb
+C:\Users\Max\Google Drive\3eme\C#\EuropeanChampionshipsUniversal\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\WrkFldr\EuropeanChampionshipsUniversal\DAL\bin\Debug\DAL.dll
+C:\WrkFldr\EuropeanChampionshipsUniversal\DAL\bin\Debug\DAL.pdb
+C:\WrkFldr\EuropeanChampionshipsUniversal\DAL\bin\Debug\Model.dll
+C:\WrkFldr\EuropeanChampionshipsUniversal\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\WrkFldr\EuropeanChampionshipsUniversal\DAL\bin\Debug\Model.pdb
+C:\WrkFldr\EuropeanChampionshipsUniversal\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\WrkFldr\EuropeanChampionshipsUniversal\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\WrkFldr\EuropeanChampionshipsUniversal\DAL\obj\Debug\DAL.dll
+C:\WrkFldr\EuropeanChampionshipsUniversal\DAL\obj\Debug\DAL.pdb
