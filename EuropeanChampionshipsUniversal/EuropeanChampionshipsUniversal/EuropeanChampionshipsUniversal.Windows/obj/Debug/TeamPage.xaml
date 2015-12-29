@@ -1,19 +1,15 @@
 ﻿<Page
     x:Name="pageRoot"
     x:Class="EuropeanChampionshipsUniversal.TeamPage"
-    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:EuropeanChampionshipsUniversal"
     xmlns:common="using:EuropeanChampionshipsUniversal.Common"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d">
+    mc:Ignorable="d"
+    DataContext="{Binding Source={StaticResource Locator}, Path=Team}">
 
-    <Page.Resources>
-        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
-        <x:String x:Key="AppName">My Application</x:String>
-    </Page.Resources>
 
     <!--
         This grid acts as a root panel for the page that defines two rows:
@@ -43,9 +39,74 @@
                         AutomationProperties.Name="Back"
                         AutomationProperties.AutomationId="BackButton"
                         AutomationProperties.ItemType="Navigation Button"/>
-            <TextBlock x:Name="pageTitle" Text="{StaticResource AppName}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+            <TextBlock x:Name="pageTitle" Text="{Binding SelectedTeam.Name, Mode=TwoWay, UpdateSourceTrigger=Explicit}"  Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
                         IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
         </Grid>
+
+        <Grid x:Name="ContentRoot" Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <!--<TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="{Binding SelectedTeam.Name, Mode=TwoWay, UpdateSourceTrigger=Explicit}" FontSize="30" Foreground="Red" VerticalAlignment="Center"/>-->
+                <Image Grid.Row="0" Grid.Column="0" Source="{Binding SelectedTeam.crestUrl}" Visibility="{Binding ImageVisibility}"/>
+                <WebView Grid.Row="0" Source="{Binding SelectedTeam.crestUrl}"  Visibility="{Binding WebViewVisibility}" DefaultBackgroundColor="Black" />
+                
+                <Button Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" Command="{Binding AddRemoveFavoriteCommand}" >
+                    <Button.Template>
+                        <ControlTemplate>
+                            <ContentPresenter />
+                        </ControlTemplate>
+                    </Button.Template>
+                    <Button.ContentTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Stretch="Fill" Source="{Binding IconFav, Mode=TwoWay}" Width="180" Height="180"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </Button.ContentTemplate>
+                </Button>
+                
+                <Button Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10" Command="{Binding GoToRankingsCommand}">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <Grid>
+                                <Image Source="Assets/ranking.jpg" Grid.Row="0"/>
+                                <TextBlock x:Uid="Rankings" FontSize="60" HorizontalAlignment="Center"/>
+                            </Grid>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button Grid.Row="1" Grid.Column="1"  HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10" Command="{Binding GoToCompositionCommand}">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <Grid>
+                                <Image Source="Assets/field.jpg" Grid.Row="0"/>
+                                <TextBlock x:Uid="Composition" FontSize="60" HorizontalAlignment="Center"/>
+                            </Grid>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </Grid>
+        </Grid>
+
     </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:Name="homeButton" Icon="Home" x:Uid="Home" Command="{Binding GoToHomeCommand}"/>
+                <AppBarButton x:Name="favoritesButton" Icon="Favorite" x:Uid="Favorites" Command="{Binding GoToFavCommand}"/>
+                <AppBarButton x:Name="championshipsButton" Icon="AllApps" x:Uid="ChampionshipsLabel" Command="{Binding GoToChampionshipsCommand}"/>
+            </CommandBar.PrimaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+
 </Page>
 

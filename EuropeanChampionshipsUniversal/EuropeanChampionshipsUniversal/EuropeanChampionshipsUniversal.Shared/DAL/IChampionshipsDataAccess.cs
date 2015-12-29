@@ -12,6 +12,10 @@ namespace EuropeanChampionshipsUniversal.DAL
         Task<LeagueTable> GetTeamsByLeagueId(int leagueId);
 
         Task<TeamInfo> GetTeamByLink(string href);
+
         Task<TeamPlayers> GetTeamComposition(string href);
+
+        Task<List<TeamInfo>> GetUserTeams(FavoriteTeamsUser[] teams);
+        Task<int> GetChampionshipIdByTeamId(int idTeam);
     }
 }

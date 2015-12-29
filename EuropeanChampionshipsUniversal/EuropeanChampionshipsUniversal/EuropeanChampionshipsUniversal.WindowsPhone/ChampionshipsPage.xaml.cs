@@ -1,4 +1,5 @@
 ﻿using EuropeanChampionshipsUniversal.Common;
+using EuropeanChampionshipsUniversal.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -99,6 +100,8 @@ namespace EuropeanChampionshipsUniversal
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             this.navigationHelper.OnNavigatedTo(e);
+
+            ((ChampionshipsViewModel)DataContext).OnNavigatedTo(e);
         }
 
         protected override void OnNavigatedFrom(NavigationEventArgs e)

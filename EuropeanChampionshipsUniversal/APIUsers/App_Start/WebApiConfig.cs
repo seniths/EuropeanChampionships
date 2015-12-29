@@ -15,6 +15,17 @@ namespace APIUsers
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(
+                name: "UserTeams",
+                routeTemplate: "api/{controller}/{idUser}/{action}/{idTeam}"
+            );
+
+            config.Routes.MapHttpRoute(
+               name: "ActionNameApi",
+               routeTemplate: "api/{controller}/{action}/{id}",
+               defaults: new { id = RouteParameter.Optional }
+            );
+
+            config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }

@@ -52,6 +52,116 @@
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\bundesliga.png">
+      <PackagePath>Assets\bundesliga.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\england_round_icon_64.png">
+      <PackagePath>Assets\england_round_icon_64.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\france_round_icon_64.png">
+      <PackagePath>Assets\france_round_icon_64.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\germany_round_icon_64.png">
+      <PackagePath>Assets\germany_round_icon_64.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\italy_round_icon_64.png">
+      <PackagePath>Assets\italy_round_icon_64.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\ligue1.png">
+      <PackagePath>Assets\ligue1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\logo.png">
+      <PackagePath>Assets\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\logo2.png">
+      <PackagePath>Assets\logo2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\netherlands_round_icon_64.png">
+      <PackagePath>Assets\netherlands_round_icon_64.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\portugal_round_icon_64.png">
+      <PackagePath>Assets\portugal_round_icon_64.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\primeiraliga.png">
+      <PackagePath>Assets\primeiraliga.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\primeradivision.png">
+      <PackagePath>Assets\primeradivision.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\seriea.png">
+      <PackagePath>Assets\seriea.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\spain_round_icon_64.png">
+      <PackagePath>Assets\spain_round_icon_64.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\Star-Empty.png">
+      <PackagePath>Assets\Star-Empty.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\Star-Full.png">
+      <PackagePath>Assets\Star-Full.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\championships.jpg">
+      <PackagePath>Assets\championships.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\eredivisie.jpg">
+      <PackagePath>Assets\eredivisie.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\favorites.jpg">
+      <PackagePath>Assets\favorites.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\field.jpg">
+      <PackagePath>Assets\field.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\grass.jpg">
+      <PackagePath>Assets\grass.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\premierleague.jpg">
+      <PackagePath>Assets\premierleague.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\ranking.jpg">
+      <PackagePath>Assets\ranking.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Shared\Assets\loadingBall.gif">
+      <PackagePath>Assets\loadingBall.gif</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\EuropeanChampionshipsUniversal.Windows.xr.xml">
       <PackagePath>EuropeanChampionshipsUniversal.Windows.xr.xml</PackagePath>
     </AppxPackagedFile>
@@ -67,11 +177,17 @@
     <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\FavoriteTeamsPage.xbf">
       <PackagePath>FavoriteTeamsPage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\HomePage.xbf">
+      <PackagePath>HomePage.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\RankingPage.xbf">
       <PackagePath>RankingPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\SubscriptionPage.xbf">
+      <PackagePath>SubscriptionPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\TeamPage.xbf">
       <PackagePath>TeamPage.xbf</PackagePath>

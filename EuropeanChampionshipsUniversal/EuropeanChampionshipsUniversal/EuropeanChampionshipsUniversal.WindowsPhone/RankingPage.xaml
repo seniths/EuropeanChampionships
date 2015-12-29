@@ -41,25 +41,25 @@
                 </Style>
             </Grid.Resources>
             <Border Grid.Column="0">
-                <TextBlock Text="R"/>
+                <TextBlock Text="N°"/>
             </Border>
             <Border Grid.Column="1" >
-                <TextBlock Text="Team Name"/>
+                <TextBlock x:Uid="TeamName"/>
             </Border>
             <Border Grid.Column="2" >
-                <TextBlock Text="P"/>
+                <TextBlock x:Uid="Played"/>
             </Border>
             <Border Grid.Column="3" >
-                <TextBlock Text="W"/>
+                <TextBlock x:Uid="Won"/>
             </Border>
             <Border Grid.Column="4" >
-                <TextBlock Text="D"/>
+                <TextBlock x:Uid="Draw"/>
             </Border>
             <Border Grid.Column="5" >
-                <TextBlock Text="L"/>
+                <TextBlock x:Uid="Loss"/>
             </Border>
             <Border Grid.Column="6" >
-                <TextBlock Text="Pts"/>
+                <TextBlock x:Uid="Points"/>
             </Border>
         </Grid>
         <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1">
@@ -77,17 +77,11 @@
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
                             <Grid.Resources>
-                                <Style TargetType="TextBlock">
+                                <Style TargetType="Button">
                                     <Setter Property="FontSize" Value="16"/>
-                                    <Setter Property="HorizontalAlignment" Value="Center"/>
-                                    <Setter Property="Margin" Value="0,8,0,8"/>
                                 </Style>
-                                <!--<Style TargetType="Button">
-                                    <Setter Property="Command" Value="{Binding GoToTeamCommand}"/>
-                                    <Setter Property="CommandParameter" Value="{Binding _links.team.href}"/>
-                                </Style>-->
                             </Grid.Resources>
-                            <Button Grid.Column="0" Content="{Binding position}" Command="{Binding ElementName=teams, Path=DataContext.GoToTeamCommand}" CommandParameter="{Binding _links.team.href}">
+                            <Button Grid.Column="0"  Content="{Binding position}" Command="{Binding ElementName=teams, Path=DataContext.GoToTeamCommand}" CommandParameter="{Binding _links.team.href}">
                                 <Button.Template>
                                     <ControlTemplate>
                                         <ContentPresenter />
@@ -136,13 +130,6 @@
                                     </ControlTemplate>
                                 </Button.Template>
                             </Button>
-                            <!--<TextBlock Grid.Column="0" Text="{Binding position}" />
-                        <TextBlock Grid.Column="1" Text="{Binding teamName}" />
-                        <TextBlock Grid.Column="2" Text="{Binding playedGames}" />
-                        <TextBlock Grid.Column="3" Text="{Binding wins}" />
-                        <TextBlock Grid.Column="4" Text="{Binding draws}" />
-                        <TextBlock Grid.Column="5" Text="{Binding losses}" />
-                        <TextBlock Grid.Column="6" Text="{Binding points}" />-->
                         </Grid>
                     </DataTemplate>
                 </ItemsControl.ItemTemplate>
@@ -152,9 +139,9 @@
     <Page.BottomAppBar>
         <CommandBar>
             <CommandBar.PrimaryCommands>
-                <AppBarButton x:Name="homeButton" Icon="Home" Label="Home"/>
-                <AppBarButton x:Name="favoritesButton" Icon="Favorite" Label="Favorites"/>
-                <AppBarButton x:Name="championshipsButton" Icon="AllApps" Label="Championships"/>
+                <AppBarButton x:Name="homeButton" Icon="Home" x:Uid="Home" Command="{Binding GoToHomeCommand}"/>
+                <AppBarButton x:Name="favoritesButton" Icon="Favorite" x:Uid="Favorites" Command="{Binding GoToFavCommand}"/>
+                <AppBarButton x:Name="championshipsButton" Icon="AllApps" x:Uid="ChampionshipsLabel" Command="{Binding GoToChampionshipsCommand}"/>
             </CommandBar.PrimaryCommands>
         </CommandBar>
     </Page.BottomAppBar>

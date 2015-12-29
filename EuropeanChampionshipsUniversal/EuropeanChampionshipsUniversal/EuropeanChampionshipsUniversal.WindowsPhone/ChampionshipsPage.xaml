@@ -59,4 +59,13 @@
         <Image Grid.Row ="5" Grid.Column="2" Source="Assets/primeradivision.png"/>
         <Image Grid.Row ="6" Grid.Column="2" Source="Assets/seriea.png"/>
     </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:Name="homeButton" x:Uid="Home" Icon="Home" Command="{Binding GoToHomeCommand}"/>
+                <AppBarButton x:Name="favoritesButton" x:Uid="Favorites" Icon="Favorite" Command="{Binding GoToFavCommand}"/>
+            </CommandBar.PrimaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
 </Page>

@@ -6,4 +6,5 @@
   <file>\GalaSoft.MvvmLight.Platform.dll</file>
   <file>\Microsoft.Practices.ServiceLocation.dll</file>
   <file>\Newtonsoft.Json.dll</file>
+  <file>\XamlAnimatedGif.dll</file>
 </Files>

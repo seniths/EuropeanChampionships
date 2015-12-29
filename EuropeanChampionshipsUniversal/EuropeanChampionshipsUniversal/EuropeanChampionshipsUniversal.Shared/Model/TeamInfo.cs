@@ -29,6 +29,8 @@ namespace EuropeanChampionshipsUniversal.Model
         public string squadMarketValue { get; set; }
         public string crestUrl { get; set; }
 
+        public int id { get; set; }
+
         private void NotifyPropertyChanged([CallerMemberName] String propertyName = "")
         {
             if (PropertyChanged != null)

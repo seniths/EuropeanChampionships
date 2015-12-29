@@ -17,13 +17,14 @@ namespace APIUsers.Controllers
         private europeanchampionshipsdbEntities db = new europeanchampionshipsdbEntities();
 
         // GET: api/Users
-        public IQueryable<user> Getusers()
+        public IEnumerable<user> Getusers()
         {
-            return db.users;
+            return db.users.ToList();
         }
 
         // GET: api/Users/5
         [ResponseType(typeof(user))]
+        [ActionName("byId")]
         public IHttpActionResult Getuser(int id)
         {
             user user = db.users.Find(id);
@@ -33,6 +34,30 @@ namespace APIUsers.Controllers
             }
 
             return Ok(user);
+        }
+
+        //GET: api/Users/byLogin/?login=
+        [ActionName("byLogin")]
+        public IEnumerable<user> GetUserByLogin(string login)
+        {
+            return db.users.Where(u => u.login == login).ToList();
+        }
+
+        //Get : api/Users/idUser/favoriteTeamsByIdTeam/idTeam
+        [ActionName("favoriteTeamsByIdTeam")]
+        [ResponseType(typeof(favoriteteamsuser))]
+        public IHttpActionResult GetFavoriteTeamByTeamId(int idUser, int idTeam)
+        {
+            var user = db.users.Find(idUser);
+
+            if (user == null)
+                return NotFound();
+
+            var team = user.favoriteteamsusers.Where(t => t.idTeam == idTeam);
+            if (team == null)
+                return NotFound();
+
+            return Ok(team);
         }
 
         // PUT: api/Users/5

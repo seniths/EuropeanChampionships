@@ -38,13 +38,13 @@
                 </Style>
             </Grid.Resources>
             <Border Grid.Column="0">
-                <TextBlock Text="Name"/>
+                <TextBlock x:Uid="Name"/>
             </Border>
             <Border Grid.Column="1" >
-                <TextBlock Text="Number"/>
+                <TextBlock x:Uid="Number"/>
             </Border>
             <Border Grid.Column="2" >
-                <TextBlock Text="Position"/>
+                <TextBlock x:Uid="Position"/>
             </Border>
         </Grid>
         <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1">
@@ -72,25 +72,14 @@
                 </ItemsControl.ItemTemplate>
             </ItemsControl>
         </ScrollViewer>
-        <!--TODO: le contenu doit être placé dans la grille suivante-->
-        <!--<StackPanel x:Name="ContentRoot" Margin="19,9.5,19,0">
-
-            <GridView  ItemsSource="{Binding Players}">
-                <GridView.ItemTemplate>
-                    <DataTemplate>
-                        <StackPanel  Background="Red" HorizontalAlignment="Stretch" Margin="5">
-                            <TextBlock Text="{Binding name}" FontSize="25" Margin="0,0,5,0"/>
-                            <TextBlock Text="{Binding dateOfBirth}" FontSize="25" Margin="0,0,5,0"/>
-                            <TextBlock Text=" ans" FontSize="25" Margin="0,0,5,0"/>
-                            <TextBlock Text="Numéro : " FontSize="25" Margin="0,0,5,0"/>
-                            <TextBlock Text="{Binding jerseyNumber}" FontSize="25" Margin="0,0,5,0"/>
-                            <TextBlock Text="Position : " FontSize="25" Margin="0,0,5,0"/>
-                            <TextBlock Text="{Binding position}" FontSize="25" Margin="0,0,5,0"/>
-                        </StackPanel>
-                    </DataTemplate>
-                </GridView.ItemTemplate>
-            </GridView>-->
-
-        <!--</StackPanel>-->
     </Grid>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:Name="homeButton" Icon="Home" x:Uid="Home" Command="{Binding GoToHomeCommand}"/>
+                <AppBarButton x:Name="favoritesButton" Icon="Favorite" x:Uid="Favorites" Command="{Binding GoToFavCommand}"/>
+                <AppBarButton x:Name="championshipsButton" Icon="AllApps" x:Uid="ChampionshipsLabel" Command="{Binding GoToChampionshipsCommand}"/>
+            </CommandBar.PrimaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
 </Page>

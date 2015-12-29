@@ -57,6 +57,22 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             }
         }
 
+        public SubscriptionViewModel Subscription
+        {
+            get
+            {
+                return ServiceLocator.Current.GetInstance<SubscriptionViewModel>();
+            }
+        }
+
+        public HomeViewModel Home
+        {
+            get
+            {
+                return ServiceLocator.Current.GetInstance<HomeViewModel>();
+            }
+        }
+
         static ViewModelLocator()
         {
             ServiceLocator.SetLocatorProvider(() => SimpleIoc.Default);
@@ -67,6 +83,8 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             SimpleIoc.Default.Register<CompositionViewModel>();
             SimpleIoc.Default.Register<ChampionshipsViewModel>();
             SimpleIoc.Default.Register<RankingViewModel>();
+            SimpleIoc.Default.Register<SubscriptionViewModel>();
+            SimpleIoc.Default.Register<HomeViewModel>();
 
             NavigationService navigationPages = new NavigationService();
             SimpleIoc.Default.Register<INavigationService>(() => navigationPages);
@@ -77,6 +95,8 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             navigationPages.Configure("CompositionPage", typeof(CompositionPage));
             navigationPages.Configure("ChampionshipsPage", typeof(ChampionshipsPage));
             navigationPages.Configure("RankingPage", typeof(RankingPage));
+            navigationPages.Configure("SubscriptionPage", typeof(SubscriptionPage));
+            navigationPages.Configure("HomePage", typeof(HomePage));
         }
     }
 }

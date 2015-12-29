@@ -24,18 +24,17 @@
 
         <!-- Panneau Titre -->
         <StackPanel Grid.Row="0" Margin="19,0,0,0">
-            <TextBlock Text="European Championships" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
-            <TextBlock Text="Favorite Teams" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+            <TextBlock x:Uid="FavTeams" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
         </StackPanel>
 
         <!--TODO: le contenu doit être placé dans la grille suivante-->
         <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
 
-            <ListView x:Name="teamsList" ItemClick="teamsList_ItemClick" IsItemClickEnabled="True" ItemsSource="{Binding TeamsApi}">
+            <ListView x:Name="teamsList" ItemClick="teamsList_ItemClick" IsItemClickEnabled="True" ItemsSource="{Binding Teams}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <StackPanel Orientation="Horizontal" Background="Red">
-                            <TextBlock Text="{Binding Name}" FontSize="35" Margin="0,0,5,0"/>
+                            <TextBlock Text="{Binding Name}" FontSize="35" Margin="0,4,0,4" Padding="4,0,4,0"/>
                         </StackPanel>
                     </DataTemplate>
                 </ListView.ItemTemplate>
@@ -43,4 +42,13 @@
 
         </Grid>
     </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:Name="homeButton" Icon="Home" x:Uid="Home" Command="{Binding GoToHomeCommand}"/>
+                <AppBarButton x:Name="championshipsButton" Icon="AllApps" x:Uid="ChampionshipsLabel" Command="{Binding GoToChampionshipsCommand}"/>
+            </CommandBar.PrimaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
 </Page>

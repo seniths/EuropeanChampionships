@@ -5,10 +5,46 @@
     xmlns:local="using:EuropeanChampionshipsUniversal"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d">
+    mc:Ignorable="d"
+    DataContext="{Binding Source={StaticResource Locator}, Path=Main}">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
 
+        <!-- Panneau Titre -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock x:Uid="Connection" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" />
+        </StackPanel>
+
+        <!--TODO: le contenu doit être placé dans la grille suivante-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBox x:Name="login" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch" x:Uid="Login" Text="{Binding Login, Mode=TwoWay}" Margin="0,20,0,20" FontSize="40"/>
+            <PasswordBox x:Name="pwd" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Stretch" x:Uid="Password" Password="{Binding Password, Mode=TwoWay}" PasswordChar="*" Margin="0,20,0,20" FontSize="40"/>
+            <Button Grid.Row="3" Grid.Column="1" HorizontalAlignment="Stretch" x:Uid="ConnectionContent" Command="{Binding ConnexionCommand}" Margin="0,20,0,20" FontSize="40"/>
+            <Button x:Uid="Register" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" Command="{Binding GoToSubscribeCommand}">
+                <Button.Template>
+                    <ControlTemplate>
+                        <ContentPresenter />
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Grid>
     </Grid>
 </Page>
 

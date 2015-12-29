@@ -36,6 +36,23 @@ namespace EuropeanChampionshipsUniversal
             this.navigationHelper = new NavigationHelper(this);
             this.navigationHelper.LoadState += this.NavigationHelper_LoadState;
             this.navigationHelper.SaveState += this.NavigationHelper_SaveState;
+
+            Window.Current.SizeChanged += Current_SizeChanged;
+        }
+
+        private void Current_SizeChanged(object sender, Windows.UI.Core.WindowSizeChangedEventArgs e)
+        {
+            var orientation = ApplicationView.GetForCurrentView().Orientation;
+            if (orientation.Equals(ApplicationViewOrientation.Landscape))
+            {
+                portrait.Visibility = Visibility.Collapsed;
+                landscape.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                portrait.Visibility = Visibility.Visible;
+                landscape.Visibility = Visibility.Collapsed;
+            }
         }
 
         /// <summary>

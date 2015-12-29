@@ -8,6 +8,6 @@ namespace EuropeanChampionshipsUniversal.Model
 {
     public class Link
     {
-        public string href { get; set; }
+        public String href { get; set; }
     }
 }

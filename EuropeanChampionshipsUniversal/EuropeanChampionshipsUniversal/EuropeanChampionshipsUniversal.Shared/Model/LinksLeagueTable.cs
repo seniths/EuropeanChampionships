@@ -8,7 +8,7 @@ namespace EuropeanChampionshipsUniversal.Model
 {
     public class LinksLeagueTable
     {
-        public string self { get; set; }
-        public string soccerseason { get; set; }
+        public Link self { get; set; }
+        public Link soccerseason { get; set; }
     }
 }

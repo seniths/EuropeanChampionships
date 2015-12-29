@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="europeanchampionshipsdbEntities-Web.config Connection String" description="europeanchampionshipsdbEntities Chaîne de connexion utilisée dans web.config par l’application pour accéder à la base de données." defaultValue="metadata=res://*/Models.ECUserModel.csdl|res://*/Models.ECUserModel.ssdl|res://*/Models.ECUserModel.msl;provider=MySql.Data.MySqlClient;provider connection string=&quot;server=br-cdbr-azure-south-a.cloudapp.net;user id=b5a52f3c4547ae;persistsecurityinfo=True;password=a7fdaf68;database=europeanchampionshipsdb&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Maxime\\Google\ Drive\\3eme\\C\#\\ECU2\\EuropeanChampionshipsUniversal\\APIUsers\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='europeanchampionshipsdbEntities']/@connectionString" />
+  </parameter>
+</parameters>

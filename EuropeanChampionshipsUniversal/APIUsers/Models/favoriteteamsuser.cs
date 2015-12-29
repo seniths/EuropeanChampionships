@@ -15,8 +15,9 @@ namespace APIUsers.Models
     public partial class favoriteteamsuser
     {
         public int idFavoriteTeamsUser { get; set; }
-        public string teamName { get; set; }
         public int idUser { get; set; }
+        public int idTeam { get; set; }
+        public int idChampionship { get; set; }
     
         public virtual user user { get; set; }
     }

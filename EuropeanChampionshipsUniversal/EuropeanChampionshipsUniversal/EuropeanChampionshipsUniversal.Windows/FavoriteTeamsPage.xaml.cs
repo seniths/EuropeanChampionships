@@ -1,4 +1,6 @@
 ﻿using EuropeanChampionshipsUniversal.Common;
+using EuropeanChampionshipsUniversal.Model;
+using EuropeanChampionshipsUniversal.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -94,6 +96,8 @@ namespace EuropeanChampionshipsUniversal
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             navigationHelper.OnNavigatedTo(e);
+
+            ((FavoriteTeamsViewModel)DataContext).OnNavigatedTo((User)e.Parameter);
         }
 
         protected override void OnNavigatedFrom(NavigationEventArgs e)
@@ -102,5 +106,10 @@ namespace EuropeanChampionshipsUniversal
         }
 
         #endregion
+
+        private void teamsList_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            ((FavoriteTeamsViewModel)DataContext).GoToTeam((TeamInfo)e.ClickedItem);
+        }
     }
 }

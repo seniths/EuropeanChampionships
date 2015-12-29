@@ -1,4 +1,5 @@
-﻿using EuropeanChampionshipsUniversal.Model;
+﻿using EuropeanChampionshipsUniversal.DAL;
+using EuropeanChampionshipsUniversal.Model;
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Ioc;
 using GalaSoft.MvvmLight.Views;
@@ -8,16 +9,23 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Net.Http;
+using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
+using Windows.ApplicationModel.Resources;
+using Windows.UI.Popups;
 
 namespace EuropeanChampionshipsUniversal.ViewModel
 {
-    public class FavoriteTeamsViewModel: ViewModelBase, INotifyPropertyChanged
+    public class FavoriteTeamsViewModel : ViewModelBase, INotifyPropertyChanged
     {
-        private ObservableCollection<Team> teams;
+        private IChampionshipsDataAccess daTeams;
+        private IUsersDataAccess daUsers;
 
-        public ObservableCollection<Team> Teams
+        private ObservableCollection<TeamInfo> teams = new ObservableCollection<TeamInfo>();
+
+        public ObservableCollection<TeamInfo> Teams
         {
             get { return teams; }
             set
@@ -27,18 +35,25 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             }
         }
 
-        //private ObservableCollection<LeagueTeam> teamsApi=new ObservableCollection<LeagueTeam>();
+        private User currentUser;
 
-        //public ObservableCollection<LeagueTeam> TeamsApi
-        //{
-        //    get { return teamsApi; }
-        //    set
-        //    {
-        //        teamsApi = value;
-        //        RaisePropertyChanged("TeamsApi");
-                
-        //    }
-        //}
+        public User CurrentUser
+        {
+            get { return currentUser; }
+            set
+            {
+                currentUser = value;
+                RaisePropertyChanged("CurrentUser");
+            }
+        }
+
+        private ResourceLoader loader;
+
+        public ResourceLoader Loader
+        {
+            get { return loader; }
+            set { loader = value; }
+        }
 
         private INavigationService _navigationService;
 
@@ -46,30 +61,79 @@ namespace EuropeanChampionshipsUniversal.ViewModel
         public FavoriteTeamsViewModel(INavigationService navigationService)
         {
             _navigationService = navigationService;
-
-            //teams = new ObservableCollection<Team>(AllTeams.GetAllTeams());
-            //CallWebApiAsync();
+            daTeams = new ChampionshipsAPIAccess();
+            daUsers = new UsersAPIAccess();
+            loader = new ResourceLoader();
         }
 
-        public void GoToTeam(Team t)
+        private async void LoadUser()
         {
-            _navigationService.NavigateTo("TeamPage", t);
+            currentUser = await daUsers.GetUserById(currentUser.idUser);
         }
 
-        //public void GoToTeam(LeagueTeam t)
-        //{
-        //    _navigationService.NavigateTo("TeamPage", t);
-        //}
+        public void OnNavigatedTo(User parameter)
+        {
+            currentUser = parameter;
+            LoadFavoriteTeams();
+        }
 
-   //     private async Task CallWebApiAsync()
-   //     {
-   //         HttpClient client = new HttpClient();
-   //         HttpResponseMessage response = await client.GetAsync("http://api.football-data.org/v1/soccerseasons/394/teams");
-   //         string json = await response.Content.ReadAsStringAsync();
-   //         var league = JsonConvert.DeserializeObject<LeagueTeams>(json);
-			//foreach(var team in league.Teams)
-			//	teamsApi.Add(team);
-            
-   //     }
+        private async void LoadFavoriteTeams()
+        {
+            currentUser = await daUsers.GetUserById(currentUser.idUser);
+            List<TeamInfo> userTeams = await daTeams.GetUserTeams(currentUser.favoriteteamsusers);
+
+
+            teams.Clear();
+            foreach (var item in userTeams)
+            {
+                teams.Add(item);
+            }
+        }
+
+        public void GoToTeam(TeamInfo t)
+        {
+            CurrentUserTeam cut = new CurrentUserTeam() { CurrentUser = currentUser, CurrentTeam = t };
+            _navigationService.NavigateTo("TeamPage", cut);
+        }
+
+        private ICommand goToHomeCommand;
+
+        public ICommand GoToHomeCommand
+        {
+            get
+            {
+                if (this.goToHomeCommand == null)
+                    this.goToHomeCommand = new Common.RelayCommand(() => GoToHome());
+                return this.goToHomeCommand;
+            }
+        }
+
+        private ICommand goToChampionshipsCommand;
+
+        public ICommand GoToChampionshipsCommand
+        {
+            get
+            {
+                if (this.goToChampionshipsCommand == null)
+                    this.goToChampionshipsCommand = new Common.RelayCommand(() => GoToChampionships());
+                return this.goToChampionshipsCommand;
+            }
+        }
+
+        private void GoToChampionships()
+        {
+            if (NetworkInterface.GetIsNetworkAvailable())
+                _navigationService.NavigateTo("ChampionshipsPage", currentUser);
+            else
+                new MessageDialog(loader.GetString("NoConnection")).ShowAsync();
+        }
+
+        public void GoToHome()
+        {
+            if (NetworkInterface.GetIsNetworkAvailable())
+                _navigationService.NavigateTo("HomePage", currentUser);
+            else
+                new MessageDialog(loader.GetString("NoConnection")).ShowAsync();
+        }
     }
 }

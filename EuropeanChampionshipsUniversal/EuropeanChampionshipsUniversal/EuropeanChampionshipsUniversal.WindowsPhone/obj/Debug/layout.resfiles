@@ -1,3 +1,6 @@
+Assets\BadgeLogo.scale-100.png
+Assets\BadgeLogo.scale-140.png
+Assets\BadgeLogo.scale-240.png
 Assets\bundesliga.png
 Assets\championships.jpg
 Assets\england_round_icon_64.png
@@ -9,6 +12,7 @@ Assets\germany_round_icon_64.png
 Assets\grass.jpg
 Assets\italy_round_icon_64.png
 Assets\ligue1.png
+Assets\loadingBall.gif
 Assets\logo.png
 Assets\Logo.scale-240.png
 Assets\logo2.png
@@ -22,7 +26,11 @@ Assets\seriea.png
 Assets\SmallLogo.scale-240.png
 Assets\spain_round_icon_64.png
 Assets\SplashScreen.scale-240.png
+Assets\Square71x71Logo.scale-100.png
+Assets\Square71x71Logo.scale-140.png
 Assets\Square71x71Logo.scale-240.png
+Assets\Star-Empty.png
+Assets\Star-Full.png
 Assets\StoreLogo.scale-240.png
 Assets\WideLogo.scale-240.png
 App.xbf
@@ -30,6 +38,8 @@ ChampionshipsPage.xbf
 CompositionPage.xbf
 EuropeanChampionshipsUniversal.WindowsPhone.xr.xml
 FavoriteTeamsPage.xbf
+HomePage.xbf
 MainPage.xbf
 RankingPage.xbf
+SubscriptionPage.xbf
 TeamPage.xbf

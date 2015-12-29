@@ -5,47 +5,54 @@
     xmlns:local="using:EuropeanChampionshipsUniversal"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:gif="using:XamlAnimatedGif"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
     DataContext="{Binding Source={StaticResource Locator}, Path=Main}">
 
     <Grid>
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
         <Grid.RowDefinitions>
-            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <Button Grid.Row="0" Command="{Binding GoToFavoriteCommand}">
-            <Button.Template>
-                <ControlTemplate>
-                    <Grid>
-                        <Image Source="Assets/favorites.jpg" Grid.Row="0"/>
-                        <TextBlock Text="Favorite teams" FontSize="40" Margin="10"  VerticalAlignment="Bottom"/>
-                    </Grid>
-                </ControlTemplate>
-            </Button.Template>
-        </Button>
+        <!-- Panneau Titre -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock x:Uid="Connection" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
 
-        <Button Grid.Row="1" Command="{Binding GoToChampionshipsCommand}">
-            <Button.Template>
-                <ControlTemplate>
-                    <Grid>
-                        <Image Source="Assets/championships.jpg"/>
-                        <TextBlock Text="Championships" FontSize="40" Margin="10"  VerticalAlignment="Bottom"/>
-                    </Grid>
-                </ControlTemplate>
-            </Button.Template>
-        </Button>
+        <!--TODO: le contenu doit être placé dans la grille suivante-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBox x:Name="login" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch" x:Uid="Login" Text="{Binding Login, Mode=TwoWay}" />
+            <PasswordBox x:Name="pwd" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Stretch" x:Uid="Password" Password="{Binding Password, Mode=TwoWay}" PasswordChar="*"/>
+            <Button Grid.Row="3" Grid.Column="1" HorizontalAlignment="Stretch" x:Uid="ConnectionContent" Command="{Binding ConnexionCommand}"/>
+            <Button x:Uid="Register" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" Command="{Binding GoToSubscribeCommand}">
+                <Button.Template>
+                    <ControlTemplate>
+                        <ContentPresenter />
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Grid>
     </Grid>
-
-
-    <Page.BottomAppBar>
-        <CommandBar>
-            <CommandBar.PrimaryCommands>
-                <AppBarButton x:Name="homeButton" Icon="Home" Label="Home"/>
-                <AppBarButton x:Name="favoritesButton" Icon="Favorite" Label="Favorites"/>
-                <AppBarButton x:Name="championshipsButton" Icon="AllApps" Label="Championships" />
-            </CommandBar.PrimaryCommands>
-        </CommandBar>
-    </Page.BottomAppBar>
 </Page>

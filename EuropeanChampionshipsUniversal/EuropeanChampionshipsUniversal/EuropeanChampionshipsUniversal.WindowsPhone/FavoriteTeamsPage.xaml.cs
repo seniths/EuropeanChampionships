@@ -101,6 +101,8 @@ namespace EuropeanChampionshipsUniversal
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             this.navigationHelper.OnNavigatedTo(e);
+
+            ((FavoriteTeamsViewModel)DataContext).OnNavigatedTo((User)e.Parameter);
         }
 
         protected override void OnNavigatedFrom(NavigationEventArgs e)
@@ -112,7 +114,7 @@ namespace EuropeanChampionshipsUniversal
 
         private void teamsList_ItemClick(object sender, ItemClickEventArgs e)
         {
-            ((FavoriteTeamsViewModel)DataContext).GoToTeam((Team)e.ClickedItem);
+            ((FavoriteTeamsViewModel)DataContext).GoToTeam((TeamInfo)e.ClickedItem);
         }
     }
 }

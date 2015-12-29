@@ -20,3 +20,5 @@ Processing file: C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUni
 File C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MSIL\Microsoft.Practices.ServiceLocation.dll is not in the compile filter. Skipping.
 Processing file: C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MSIL\Newtonsoft.Json.dll
 File C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MSIL\Newtonsoft.Json.dll is not in the compile filter. Skipping.
+Processing file: C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MSIL\XamlAnimatedGif.dll
+File C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.WindowsPhone\obj\Debug\MSIL\XamlAnimatedGif.dll is not in the compile filter. Skipping.

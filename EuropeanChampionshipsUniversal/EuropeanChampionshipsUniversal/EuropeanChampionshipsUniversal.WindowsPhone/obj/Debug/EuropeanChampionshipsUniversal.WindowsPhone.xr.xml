@@ -10,19 +10,28 @@
     <RootPropertyPathName Name="IDLigue1" />
     <RootPropertyPathName Name="IDEreDivisie" />
     <RootPropertyPathName Name="IDBundesliga" />
+    <RootPropertyPathName Name="GoToFavCommand" />
+    <RootPropertyPathName Name="GoToHomeCommand" />
     <RootPropertyPathName Name="Composition" />
     <RootPropertyPathName Name="Players" />
     <RootPropertyPathName Name="position" />
     <RootPropertyPathName Name="jerseyNumber" />
     <RootPropertyPathName Name="name" />
-    <RootPropertyPathName Name="FavoriteTeams" />
-    <RootPropertyPathName Name="TeamsApi" />
-    <RootPropertyPathName Name="Name" />
-    <RootPropertyPathName Name="Main" />
     <RootPropertyPathName Name="GoToChampionshipsCommand" />
-    <RootPropertyPathName Name="GoToFavoriteCommand" />
-    <RootPropertyPathName Name="Ranking" />
+    <RootPropertyPathName Name="Subscription" />
+    <RootPropertyPathName Name="SubscriptionCommand" />
+    <RootPropertyPathName Name="PasswordRepeated" />
+    <RootPropertyPathName Name="Password" />
+    <RootPropertyPathName Name="Login" />
+    <RootPropertyPathName Name="FavoriteTeams" />
     <RootPropertyPathName Name="Teams" />
+    <RootPropertyPathName Name="Name" />
+    <RootPropertyPathName Name="Home" />
+    <RootPropertyPathName Name="GoToFavoriteCommand" />
+    <RootPropertyPathName Name="Main" />
+    <RootPropertyPathName Name="GoToSubscribeCommand" />
+    <RootPropertyPathName Name="ConnexionCommand" />
+    <RootPropertyPathName Name="Ranking" />
     <RootPropertyPathName Name="points" />
     <RootPropertyPathName Name="DataContext" />
     <RootPropertyPathName Name="GoToTeamCommand" />
@@ -36,6 +45,9 @@
     <RootPropertyPathName Name="teamName" />
     <RootPropertyPathName Name="Team" />
     <RootPropertyPathName Name="GoToCompositionCommand" />
+    <RootPropertyPathName Name="GoToRankingsCommand" />
+    <RootPropertyPathName Name="AddRemoveFavoriteCommand" />
+    <RootPropertyPathName Name="IconFav" />
     <RootPropertyPathName Name="SelectedTeam" />
     <RootPropertyPathName Name="crestUrl" />
     <RootPropertyPathName Name="WebViewVisibility" />
@@ -56,8 +68,8 @@
     <RootType FullName="Windows.UI.Xaml.Data.Binding">
       <RootProperty Name="Source" />
       <RootProperty Name="Path" />
-      <RootProperty Name="ElementName" />
       <RootProperty Name="Mode" />
+      <RootProperty Name="ElementName" />
       <RootProperty Name="UpdateSourceTrigger" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.StaticResourceExtension" />
@@ -69,6 +81,7 @@
       <RootProperty Name="Children" />
       <RootProperty Name="ChildrenTransitions" />
       <RootProperty Name="Margin" />
+      <RootProperty Name="Visibility" />
       <RootMethod Name="GetRow" />
       <RootMethod Name="SetRow" />
       <RootMethod Name="GetColumn" />
@@ -89,14 +102,16 @@
       <RootProperty Name="Content" />
       <RootProperty Name="CommandParameter" />
       <RootProperty Name="Command" />
-      <RootProperty Name="Template" />
       <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Template" />
       <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="ContentTemplate" />
       <RootProperty Name="Margin" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Control">
       <RootProperty Name="Background" />
       <RootProperty Name="Foreground" />
+      <RootProperty Name="FontSize" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.FrameworkElement">
       <RootProperty Name="HorizontalAlignment" />
@@ -108,10 +123,18 @@
       <RootProperty Name="Width" />
       <RootProperty Name="Height" />
       <RootProperty Name="Visibility" />
+      <RootProperty Name="Stretch" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Setter">
       <RootProperty Name="Property" />
       <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.CommandBar">
+      <RootProperty Name="PrimaryCommands" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.AppBarButton">
+      <RootProperty Name="Icon" />
+      <RootProperty Name="Command" />
     </RootType>
     <RootType FullName="EuropeanChampionshipsUniversal.ChampionshipsPage" />
     <RootType FullName="Windows.UI.Xaml.Media.Animation.TransitionCollection" />
@@ -136,6 +159,7 @@
       <RootProperty Name="Margin" />
       <RootProperty Name="Style" />
       <RootProperty Name="CharacterSpacing" />
+      <RootProperty Name="Padding" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Foreground" />
       <RootProperty Name="HorizontalAlignment" />
@@ -153,6 +177,16 @@
       <RootProperty Name="Orientation" />
       <RootProperty Name="Background" />
     </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Text" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.PasswordBox">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="PasswordChar" />
+      <RootProperty Name="Password" />
+    </RootType>
+    <RootType FullName="EuropeanChampionshipsUniversal.SubscriptionPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.ListView">
       <RootProperty Name="IsItemClickEnabled" />
       <RootProperty Name="ItemsSource" />
@@ -163,15 +197,9 @@
     <RootType FullName="Windows.UI.Xaml.Controls.ControlTemplate">
       <RootProperty Name="Template" />
     </RootType>
-    <RootType FullName="Windows.UI.Xaml.Controls.CommandBar">
-      <RootProperty Name="PrimaryCommands" />
-    </RootType>
-    <RootType FullName="Windows.UI.Xaml.Controls.AppBarButton">
-      <RootProperty Name="Icon" />
-      <RootProperty Name="Label" />
-    </RootType>
-    <RootType FullName="EuropeanChampionshipsUniversal.MainPage" />
+    <RootType FullName="EuropeanChampionshipsUniversal.HomePage" />
     <RootType FullName="Windows.UI.Xaml.Controls.ContentPresenter" />
+    <RootType FullName="EuropeanChampionshipsUniversal.MainPage" />
     <RootType FullName="EuropeanChampionshipsUniversal.RankingPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.WebView">
       <RootProperty Name="Source" />
