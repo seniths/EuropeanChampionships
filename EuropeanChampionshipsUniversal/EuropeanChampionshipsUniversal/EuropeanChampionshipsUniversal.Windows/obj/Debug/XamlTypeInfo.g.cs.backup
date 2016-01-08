@@ -124,7 +124,7 @@ namespace EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[22];
+            _typeNameTable = new string[26];
             _typeNameTable[0] = "EuropeanChampionshipsUniversal.ViewModel.ViewModelLocator";
             _typeNameTable[1] = "Object";
             _typeNameTable[2] = "EuropeanChampionshipsUniversal.ViewModel.MainViewModel";
@@ -135,20 +135,24 @@ namespace EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_
             _typeNameTable[7] = "EuropeanChampionshipsUniversal.ViewModel.CompositionViewModel";
             _typeNameTable[8] = "EuropeanChampionshipsUniversal.ViewModel.ChampionshipsViewModel";
             _typeNameTable[9] = "EuropeanChampionshipsUniversal.ViewModel.RankingViewModel";
-            _typeNameTable[10] = "EuropeanChampionshipsUniversal.ChampionshipsPage";
-            _typeNameTable[11] = "Windows.UI.Xaml.Controls.Page";
-            _typeNameTable[12] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[13] = "EuropeanChampionshipsUniversal.Common.ObservableDictionary";
-            _typeNameTable[14] = "String";
-            _typeNameTable[15] = "EuropeanChampionshipsUniversal.Common.NavigationHelper";
-            _typeNameTable[16] = "Windows.UI.Xaml.DependencyObject";
-            _typeNameTable[17] = "EuropeanChampionshipsUniversal.CompositionPage";
-            _typeNameTable[18] = "EuropeanChampionshipsUniversal.FavoriteTeamsPage";
-            _typeNameTable[19] = "EuropeanChampionshipsUniversal.MainPage";
-            _typeNameTable[20] = "EuropeanChampionshipsUniversal.RankingPage";
-            _typeNameTable[21] = "EuropeanChampionshipsUniversal.TeamPage";
+            _typeNameTable[10] = "EuropeanChampionshipsUniversal.ViewModel.SubscriptionViewModel";
+            _typeNameTable[11] = "EuropeanChampionshipsUniversal.ViewModel.HomeViewModel";
+            _typeNameTable[12] = "EuropeanChampionshipsUniversal.ChampionshipsPage";
+            _typeNameTable[13] = "Windows.UI.Xaml.Controls.Page";
+            _typeNameTable[14] = "Windows.UI.Xaml.Controls.UserControl";
+            _typeNameTable[15] = "EuropeanChampionshipsUniversal.Common.ObservableDictionary";
+            _typeNameTable[16] = "String";
+            _typeNameTable[17] = "EuropeanChampionshipsUniversal.Common.NavigationHelper";
+            _typeNameTable[18] = "Windows.UI.Xaml.DependencyObject";
+            _typeNameTable[19] = "EuropeanChampionshipsUniversal.CompositionPage";
+            _typeNameTable[20] = "EuropeanChampionshipsUniversal.FavoriteTeamsPage";
+            _typeNameTable[21] = "EuropeanChampionshipsUniversal.HomePage";
+            _typeNameTable[22] = "EuropeanChampionshipsUniversal.MainPage";
+            _typeNameTable[23] = "EuropeanChampionshipsUniversal.RankingPage";
+            _typeNameTable[24] = "EuropeanChampionshipsUniversal.SubscriptionPage";
+            _typeNameTable[25] = "EuropeanChampionshipsUniversal.TeamPage";
 
-            _typeTable = new global::System.Type[22];
+            _typeTable = new global::System.Type[26];
             _typeTable[0] = typeof(global::EuropeanChampionshipsUniversal.ViewModel.ViewModelLocator);
             _typeTable[1] = typeof(global::System.Object);
             _typeTable[2] = typeof(global::EuropeanChampionshipsUniversal.ViewModel.MainViewModel);
@@ -159,18 +163,22 @@ namespace EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_
             _typeTable[7] = typeof(global::EuropeanChampionshipsUniversal.ViewModel.CompositionViewModel);
             _typeTable[8] = typeof(global::EuropeanChampionshipsUniversal.ViewModel.ChampionshipsViewModel);
             _typeTable[9] = typeof(global::EuropeanChampionshipsUniversal.ViewModel.RankingViewModel);
-            _typeTable[10] = typeof(global::EuropeanChampionshipsUniversal.ChampionshipsPage);
-            _typeTable[11] = typeof(global::Windows.UI.Xaml.Controls.Page);
-            _typeTable[12] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[13] = typeof(global::EuropeanChampionshipsUniversal.Common.ObservableDictionary);
-            _typeTable[14] = typeof(global::System.String);
-            _typeTable[15] = typeof(global::EuropeanChampionshipsUniversal.Common.NavigationHelper);
-            _typeTable[16] = typeof(global::Windows.UI.Xaml.DependencyObject);
-            _typeTable[17] = typeof(global::EuropeanChampionshipsUniversal.CompositionPage);
-            _typeTable[18] = typeof(global::EuropeanChampionshipsUniversal.FavoriteTeamsPage);
-            _typeTable[19] = typeof(global::EuropeanChampionshipsUniversal.MainPage);
-            _typeTable[20] = typeof(global::EuropeanChampionshipsUniversal.RankingPage);
-            _typeTable[21] = typeof(global::EuropeanChampionshipsUniversal.TeamPage);
+            _typeTable[10] = typeof(global::EuropeanChampionshipsUniversal.ViewModel.SubscriptionViewModel);
+            _typeTable[11] = typeof(global::EuropeanChampionshipsUniversal.ViewModel.HomeViewModel);
+            _typeTable[12] = typeof(global::EuropeanChampionshipsUniversal.ChampionshipsPage);
+            _typeTable[13] = typeof(global::Windows.UI.Xaml.Controls.Page);
+            _typeTable[14] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
+            _typeTable[15] = typeof(global::EuropeanChampionshipsUniversal.Common.ObservableDictionary);
+            _typeTable[16] = typeof(global::System.String);
+            _typeTable[17] = typeof(global::EuropeanChampionshipsUniversal.Common.NavigationHelper);
+            _typeTable[18] = typeof(global::Windows.UI.Xaml.DependencyObject);
+            _typeTable[19] = typeof(global::EuropeanChampionshipsUniversal.CompositionPage);
+            _typeTable[20] = typeof(global::EuropeanChampionshipsUniversal.FavoriteTeamsPage);
+            _typeTable[21] = typeof(global::EuropeanChampionshipsUniversal.HomePage);
+            _typeTable[22] = typeof(global::EuropeanChampionshipsUniversal.MainPage);
+            _typeTable[23] = typeof(global::EuropeanChampionshipsUniversal.RankingPage);
+            _typeTable[24] = typeof(global::EuropeanChampionshipsUniversal.SubscriptionPage);
+            _typeTable[25] = typeof(global::EuropeanChampionshipsUniversal.TeamPage);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -207,14 +215,16 @@ namespace EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_
 
         private object Activate_0_ViewModelLocator() { return new global::EuropeanChampionshipsUniversal.ViewModel.ViewModelLocator(); }
         private object Activate_4_ObservableObject() { return new global::GalaSoft.MvvmLight.ObservableObject(); }
-        private object Activate_10_ChampionshipsPage() { return new global::EuropeanChampionshipsUniversal.ChampionshipsPage(); }
-        private object Activate_13_ObservableDictionary() { return new global::EuropeanChampionshipsUniversal.Common.ObservableDictionary(); }
-        private object Activate_17_CompositionPage() { return new global::EuropeanChampionshipsUniversal.CompositionPage(); }
-        private object Activate_18_FavoriteTeamsPage() { return new global::EuropeanChampionshipsUniversal.FavoriteTeamsPage(); }
-        private object Activate_19_MainPage() { return new global::EuropeanChampionshipsUniversal.MainPage(); }
-        private object Activate_20_RankingPage() { return new global::EuropeanChampionshipsUniversal.RankingPage(); }
-        private object Activate_21_TeamPage() { return new global::EuropeanChampionshipsUniversal.TeamPage(); }
-        private void MapAdd_13_ObservableDictionary(object instance, object key, object item)
+        private object Activate_12_ChampionshipsPage() { return new global::EuropeanChampionshipsUniversal.ChampionshipsPage(); }
+        private object Activate_15_ObservableDictionary() { return new global::EuropeanChampionshipsUniversal.Common.ObservableDictionary(); }
+        private object Activate_19_CompositionPage() { return new global::EuropeanChampionshipsUniversal.CompositionPage(); }
+        private object Activate_20_FavoriteTeamsPage() { return new global::EuropeanChampionshipsUniversal.FavoriteTeamsPage(); }
+        private object Activate_21_HomePage() { return new global::EuropeanChampionshipsUniversal.HomePage(); }
+        private object Activate_22_MainPage() { return new global::EuropeanChampionshipsUniversal.MainPage(); }
+        private object Activate_23_RankingPage() { return new global::EuropeanChampionshipsUniversal.RankingPage(); }
+        private object Activate_24_SubscriptionPage() { return new global::EuropeanChampionshipsUniversal.SubscriptionPage(); }
+        private object Activate_25_TeamPage() { return new global::EuropeanChampionshipsUniversal.TeamPage(); }
+        private void MapAdd_15_ObservableDictionary(object instance, object key, object item)
         {
             var collection = (global::System.Collections.Generic.IDictionary<global::System.String, global::System.Object>)instance;
             var newKey = (global::System.String)key;
@@ -241,6 +251,8 @@ namespace EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_
                 userType.AddMemberName("Composition");
                 userType.AddMemberName("Championships");
                 userType.AddMemberName("Ranking");
+                userType.AddMemberName("Subscription");
+                userType.AddMemberName("Home");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -302,83 +314,113 @@ namespace EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_
                 xamlType = userType;
                 break;
 
-            case 10:   //  EuropeanChampionshipsUniversal.ChampionshipsPage
+            case 10:   //  EuropeanChampionshipsUniversal.ViewModel.SubscriptionViewModel
+                userType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("GalaSoft.MvvmLight.ViewModelBase"));
+                userType.SetIsReturnTypeStub();
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 11:   //  EuropeanChampionshipsUniversal.ViewModel.HomeViewModel
+                userType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("GalaSoft.MvvmLight.ViewModelBase"));
+                userType.SetIsReturnTypeStub();
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 12:   //  EuropeanChampionshipsUniversal.ChampionshipsPage
                 userType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_10_ChampionshipsPage;
+                userType.Activator = Activate_12_ChampionshipsPage;
                 userType.AddMemberName("DefaultViewModel");
                 userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 11:   //  Windows.UI.Xaml.Controls.Page
+            case 13:   //  Windows.UI.Xaml.Controls.Page
                 xamlType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 12:   //  Windows.UI.Xaml.Controls.UserControl
+            case 14:   //  Windows.UI.Xaml.Controls.UserControl
                 xamlType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 13:   //  EuropeanChampionshipsUniversal.Common.ObservableDictionary
+            case 15:   //  EuropeanChampionshipsUniversal.Common.ObservableDictionary
                 userType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
-                userType.DictionaryAdd = MapAdd_13_ObservableDictionary;
+                userType.DictionaryAdd = MapAdd_15_ObservableDictionary;
                 userType.SetIsReturnTypeStub();
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 14:   //  String
+            case 16:   //  String
                 xamlType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 15:   //  EuropeanChampionshipsUniversal.Common.NavigationHelper
+            case 17:   //  EuropeanChampionshipsUniversal.Common.NavigationHelper
                 userType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.DependencyObject"));
                 userType.SetIsReturnTypeStub();
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 16:   //  Windows.UI.Xaml.DependencyObject
+            case 18:   //  Windows.UI.Xaml.DependencyObject
                 xamlType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 17:   //  EuropeanChampionshipsUniversal.CompositionPage
+            case 19:   //  EuropeanChampionshipsUniversal.CompositionPage
                 userType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_17_CompositionPage;
+                userType.Activator = Activate_19_CompositionPage;
                 userType.AddMemberName("DefaultViewModel");
                 userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 18:   //  EuropeanChampionshipsUniversal.FavoriteTeamsPage
+            case 20:   //  EuropeanChampionshipsUniversal.FavoriteTeamsPage
                 userType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_18_FavoriteTeamsPage;
+                userType.Activator = Activate_20_FavoriteTeamsPage;
                 userType.AddMemberName("DefaultViewModel");
                 userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 19:   //  EuropeanChampionshipsUniversal.MainPage
+            case 21:   //  EuropeanChampionshipsUniversal.HomePage
                 userType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_19_MainPage;
+                userType.Activator = Activate_21_HomePage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 20:   //  EuropeanChampionshipsUniversal.RankingPage
+            case 22:   //  EuropeanChampionshipsUniversal.MainPage
                 userType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_20_RankingPage;
+                userType.Activator = Activate_22_MainPage;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 23:   //  EuropeanChampionshipsUniversal.RankingPage
+                userType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_23_RankingPage;
                 userType.AddMemberName("DefaultViewModel");
                 userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 21:   //  EuropeanChampionshipsUniversal.TeamPage
+            case 24:   //  EuropeanChampionshipsUniversal.SubscriptionPage
                 userType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_21_TeamPage;
+                userType.Activator = Activate_24_SubscriptionPage;
+                userType.AddMemberName("DefaultViewModel");
+                userType.AddMemberName("NavigationHelper");
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 25:   //  EuropeanChampionshipsUniversal.TeamPage
+                userType = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_25_TeamPage;
                 userType.AddMemberName("DefaultViewModel");
                 userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
@@ -419,52 +461,72 @@ namespace EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_
             var that = (global::EuropeanChampionshipsUniversal.ViewModel.ViewModelLocator)instance;
             return that.Ranking;
         }
-        private object get_6_ChampionshipsPage_DefaultViewModel(object instance)
+        private object get_6_ViewModelLocator_Subscription(object instance)
+        {
+            var that = (global::EuropeanChampionshipsUniversal.ViewModel.ViewModelLocator)instance;
+            return that.Subscription;
+        }
+        private object get_7_ViewModelLocator_Home(object instance)
+        {
+            var that = (global::EuropeanChampionshipsUniversal.ViewModel.ViewModelLocator)instance;
+            return that.Home;
+        }
+        private object get_8_ChampionshipsPage_DefaultViewModel(object instance)
         {
             var that = (global::EuropeanChampionshipsUniversal.ChampionshipsPage)instance;
             return that.DefaultViewModel;
         }
-        private object get_7_ChampionshipsPage_NavigationHelper(object instance)
+        private object get_9_ChampionshipsPage_NavigationHelper(object instance)
         {
             var that = (global::EuropeanChampionshipsUniversal.ChampionshipsPage)instance;
             return that.NavigationHelper;
         }
-        private object get_8_CompositionPage_DefaultViewModel(object instance)
+        private object get_10_CompositionPage_DefaultViewModel(object instance)
         {
             var that = (global::EuropeanChampionshipsUniversal.CompositionPage)instance;
             return that.DefaultViewModel;
         }
-        private object get_9_CompositionPage_NavigationHelper(object instance)
+        private object get_11_CompositionPage_NavigationHelper(object instance)
         {
             var that = (global::EuropeanChampionshipsUniversal.CompositionPage)instance;
             return that.NavigationHelper;
         }
-        private object get_10_FavoriteTeamsPage_DefaultViewModel(object instance)
+        private object get_12_FavoriteTeamsPage_DefaultViewModel(object instance)
         {
             var that = (global::EuropeanChampionshipsUniversal.FavoriteTeamsPage)instance;
             return that.DefaultViewModel;
         }
-        private object get_11_FavoriteTeamsPage_NavigationHelper(object instance)
+        private object get_13_FavoriteTeamsPage_NavigationHelper(object instance)
         {
             var that = (global::EuropeanChampionshipsUniversal.FavoriteTeamsPage)instance;
             return that.NavigationHelper;
         }
-        private object get_12_RankingPage_DefaultViewModel(object instance)
+        private object get_14_RankingPage_DefaultViewModel(object instance)
         {
             var that = (global::EuropeanChampionshipsUniversal.RankingPage)instance;
             return that.DefaultViewModel;
         }
-        private object get_13_RankingPage_NavigationHelper(object instance)
+        private object get_15_RankingPage_NavigationHelper(object instance)
         {
             var that = (global::EuropeanChampionshipsUniversal.RankingPage)instance;
             return that.NavigationHelper;
         }
-        private object get_14_TeamPage_DefaultViewModel(object instance)
+        private object get_16_SubscriptionPage_DefaultViewModel(object instance)
+        {
+            var that = (global::EuropeanChampionshipsUniversal.SubscriptionPage)instance;
+            return that.DefaultViewModel;
+        }
+        private object get_17_SubscriptionPage_NavigationHelper(object instance)
+        {
+            var that = (global::EuropeanChampionshipsUniversal.SubscriptionPage)instance;
+            return that.NavigationHelper;
+        }
+        private object get_18_TeamPage_DefaultViewModel(object instance)
         {
             var that = (global::EuropeanChampionshipsUniversal.TeamPage)instance;
             return that.DefaultViewModel;
         }
-        private object get_15_TeamPage_NavigationHelper(object instance)
+        private object get_19_TeamPage_NavigationHelper(object instance)
         {
             var that = (global::EuropeanChampionshipsUniversal.TeamPage)instance;
             return that.NavigationHelper;
@@ -513,64 +575,88 @@ namespace EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_
                 xamlMember.Getter = get_5_ViewModelLocator_Ranking;
                 xamlMember.SetIsReadOnly();
                 break;
+            case "EuropeanChampionshipsUniversal.ViewModel.ViewModelLocator.Subscription":
+                userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.ViewModel.ViewModelLocator");
+                xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "Subscription", "EuropeanChampionshipsUniversal.ViewModel.SubscriptionViewModel");
+                xamlMember.Getter = get_6_ViewModelLocator_Subscription;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "EuropeanChampionshipsUniversal.ViewModel.ViewModelLocator.Home":
+                userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.ViewModel.ViewModelLocator");
+                xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "Home", "EuropeanChampionshipsUniversal.ViewModel.HomeViewModel");
+                xamlMember.Getter = get_7_ViewModelLocator_Home;
+                xamlMember.SetIsReadOnly();
+                break;
             case "EuropeanChampionshipsUniversal.ChampionshipsPage.DefaultViewModel":
                 userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.ChampionshipsPage");
                 xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "EuropeanChampionshipsUniversal.Common.ObservableDictionary");
-                xamlMember.Getter = get_6_ChampionshipsPage_DefaultViewModel;
+                xamlMember.Getter = get_8_ChampionshipsPage_DefaultViewModel;
                 xamlMember.SetIsReadOnly();
                 break;
             case "EuropeanChampionshipsUniversal.ChampionshipsPage.NavigationHelper":
                 userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.ChampionshipsPage");
                 xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "EuropeanChampionshipsUniversal.Common.NavigationHelper");
-                xamlMember.Getter = get_7_ChampionshipsPage_NavigationHelper;
+                xamlMember.Getter = get_9_ChampionshipsPage_NavigationHelper;
                 xamlMember.SetIsReadOnly();
                 break;
             case "EuropeanChampionshipsUniversal.CompositionPage.DefaultViewModel":
                 userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.CompositionPage");
                 xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "EuropeanChampionshipsUniversal.Common.ObservableDictionary");
-                xamlMember.Getter = get_8_CompositionPage_DefaultViewModel;
+                xamlMember.Getter = get_10_CompositionPage_DefaultViewModel;
                 xamlMember.SetIsReadOnly();
                 break;
             case "EuropeanChampionshipsUniversal.CompositionPage.NavigationHelper":
                 userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.CompositionPage");
                 xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "EuropeanChampionshipsUniversal.Common.NavigationHelper");
-                xamlMember.Getter = get_9_CompositionPage_NavigationHelper;
+                xamlMember.Getter = get_11_CompositionPage_NavigationHelper;
                 xamlMember.SetIsReadOnly();
                 break;
             case "EuropeanChampionshipsUniversal.FavoriteTeamsPage.DefaultViewModel":
                 userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.FavoriteTeamsPage");
                 xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "EuropeanChampionshipsUniversal.Common.ObservableDictionary");
-                xamlMember.Getter = get_10_FavoriteTeamsPage_DefaultViewModel;
+                xamlMember.Getter = get_12_FavoriteTeamsPage_DefaultViewModel;
                 xamlMember.SetIsReadOnly();
                 break;
             case "EuropeanChampionshipsUniversal.FavoriteTeamsPage.NavigationHelper":
                 userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.FavoriteTeamsPage");
                 xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "EuropeanChampionshipsUniversal.Common.NavigationHelper");
-                xamlMember.Getter = get_11_FavoriteTeamsPage_NavigationHelper;
+                xamlMember.Getter = get_13_FavoriteTeamsPage_NavigationHelper;
                 xamlMember.SetIsReadOnly();
                 break;
             case "EuropeanChampionshipsUniversal.RankingPage.DefaultViewModel":
                 userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.RankingPage");
                 xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "EuropeanChampionshipsUniversal.Common.ObservableDictionary");
-                xamlMember.Getter = get_12_RankingPage_DefaultViewModel;
+                xamlMember.Getter = get_14_RankingPage_DefaultViewModel;
                 xamlMember.SetIsReadOnly();
                 break;
             case "EuropeanChampionshipsUniversal.RankingPage.NavigationHelper":
                 userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.RankingPage");
                 xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "EuropeanChampionshipsUniversal.Common.NavigationHelper");
-                xamlMember.Getter = get_13_RankingPage_NavigationHelper;
+                xamlMember.Getter = get_15_RankingPage_NavigationHelper;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "EuropeanChampionshipsUniversal.SubscriptionPage.DefaultViewModel":
+                userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.SubscriptionPage");
+                xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "EuropeanChampionshipsUniversal.Common.ObservableDictionary");
+                xamlMember.Getter = get_16_SubscriptionPage_DefaultViewModel;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "EuropeanChampionshipsUniversal.SubscriptionPage.NavigationHelper":
+                userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.SubscriptionPage");
+                xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "EuropeanChampionshipsUniversal.Common.NavigationHelper");
+                xamlMember.Getter = get_17_SubscriptionPage_NavigationHelper;
                 xamlMember.SetIsReadOnly();
                 break;
             case "EuropeanChampionshipsUniversal.TeamPage.DefaultViewModel":
                 userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.TeamPage");
                 xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "DefaultViewModel", "EuropeanChampionshipsUniversal.Common.ObservableDictionary");
-                xamlMember.Getter = get_14_TeamPage_DefaultViewModel;
+                xamlMember.Getter = get_18_TeamPage_DefaultViewModel;
                 xamlMember.SetIsReadOnly();
                 break;
             case "EuropeanChampionshipsUniversal.TeamPage.NavigationHelper":
                 userType = (global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("EuropeanChampionshipsUniversal.TeamPage");
                 xamlMember = new global::EuropeanChampionshipsUniversal.EuropeanChampionshipsUniversal_Windows_XamlTypeInfo.XamlMember(this, "NavigationHelper", "EuropeanChampionshipsUniversal.Common.NavigationHelper");
-                xamlMember.Getter = get_15_TeamPage_NavigationHelper;
+                xamlMember.Getter = get_19_TeamPage_NavigationHelper;
                 xamlMember.SetIsReadOnly();
                 break;
             }

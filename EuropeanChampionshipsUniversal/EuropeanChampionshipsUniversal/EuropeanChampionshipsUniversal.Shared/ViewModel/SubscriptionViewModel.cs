@@ -133,5 +133,12 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             else
                 new MessageDialog(loader.GetString("RegistrationError")).ShowAsync();
         }
+
+        internal void OnNavigatedTo()
+        {
+            login = "";
+            password = "";
+            passwordRepeated = "";
+        }
     }
 }

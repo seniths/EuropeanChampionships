@@ -14,6 +14,7 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using Windows.ApplicationModel.Resources;
 using Windows.UI.Popups;
+using Windows.UI.Xaml;
 
 namespace EuropeanChampionshipsUniversal.ViewModel
 {
@@ -45,6 +46,19 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             }
         }
 
+        private bool isLoading;
+
+        public bool IsLoading
+        {
+            get { return isLoading; }
+            set
+            {
+                isLoading = value;
+                RaisePropertyChanged("IsLoading");
+            }
+        }
+
+
         private ResourceLoader loader;
 
         public ResourceLoader Loader
@@ -61,6 +75,7 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             _navigationService = navigationService;
             da = new UsersAPIAccess();
             loader = new ResourceLoader();
+            isLoading = false;
 
             var settings = Windows.Storage.ApplicationData.Current.LocalSettings;
             if (settings.Values["login"] != null)
@@ -82,13 +97,15 @@ namespace EuropeanChampionshipsUniversal.ViewModel
         }
 
         private void Connexion()
-        {   
-            if(NetworkInterface.GetIsNetworkAvailable())
+        {
+            isLoading = true;
+            if (NetworkInterface.GetIsNetworkAvailable())
                 IsValidUser();
             else
+            {
                 new MessageDialog(loader.GetString("NoConnection")).ShowAsync();
-
-            //loading
+                isLoading = false;
+            }
         }
 
         private async void IsValidUser()
@@ -98,7 +115,10 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             if (user != null && user.password.Equals(PasswordEncryption.cryptPwd(password)))
                 GoToHome(user);
             else
+            {
                 new MessageDialog(loader.GetString("ConnectionError")).ShowAsync();
+                isLoading = false;
+            }
         }
 
         private void GoToHome(User item)
@@ -106,6 +126,7 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             var settings = Windows.Storage.ApplicationData.Current.LocalSettings;
             settings.Values["login"] = login;
             settings.Values["password"] = password;
+            isLoading = false;
             _navigationService.NavigateTo("HomePage", item);
         }
 

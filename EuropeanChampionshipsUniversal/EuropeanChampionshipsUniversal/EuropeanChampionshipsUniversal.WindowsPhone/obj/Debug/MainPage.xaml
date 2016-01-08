@@ -54,6 +54,9 @@
                 </Button.Template>
             </Button>
         </Grid>
+
+        <ProgressRing Grid.Row="1" IsActive="{Binding IsLoading}" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+
     </Grid>
 </Page>
 

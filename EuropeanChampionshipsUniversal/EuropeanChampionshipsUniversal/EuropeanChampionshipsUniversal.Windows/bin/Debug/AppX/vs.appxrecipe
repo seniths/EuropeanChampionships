@@ -28,7 +28,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\EuropeanChampionshipsUniversal.Windows.exe">
       <PackagePath>EuropeanChampionshipsUniversal.Windows.exe</PackagePath>
-      <Modified>2015-12-29T12:57:19.078</Modified>
+      <Modified>2016-01-05T23:42:29.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\packages\MvvmLightLibs.5.2.0.0\lib\windows81\GalaSoft.MvvmLight.dll">
       <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
@@ -257,7 +257,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Max\Google Drive\3eme\C#\ECU2\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal\EuropeanChampionshipsUniversal.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-12-29T12:57:19.658</Modified>
+      <Modified>2016-01-05T23:42:29.717</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
