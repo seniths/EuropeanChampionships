@@ -46,17 +46,17 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             }
         }
 
-        private bool isLoading;
+        //private bool isLoading;
 
-        public bool IsLoading
-        {
-            get { return isLoading; }
-            set
-            {
-                isLoading = value;
-                RaisePropertyChanged("IsLoading");
-            }
-        }
+        //public bool IsLoading
+        //{
+        //    get { return isLoading; }
+        //    set
+        //    {
+        //        isLoading = value;
+        //        RaisePropertyChanged("IsLoading");
+        //    }
+        //}
 
 
         private ResourceLoader loader;
@@ -75,7 +75,7 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             _navigationService = navigationService;
             da = new UsersAPIAccess();
             loader = new ResourceLoader();
-            isLoading = false;
+            //isLoading = false;
 
             var settings = Windows.Storage.ApplicationData.Current.LocalSettings;
             if (settings.Values["login"] != null)
@@ -98,13 +98,13 @@ namespace EuropeanChampionshipsUniversal.ViewModel
 
         private void Connexion()
         {
-            isLoading = true;
+            //isLoading = true;
             if (NetworkInterface.GetIsNetworkAvailable())
                 IsValidUser();
             else
             {
                 new MessageDialog(loader.GetString("NoConnection")).ShowAsync();
-                isLoading = false;
+                //isLoading = false;
             }
         }
 
@@ -117,7 +117,7 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             else
             {
                 new MessageDialog(loader.GetString("ConnectionError")).ShowAsync();
-                isLoading = false;
+                //isLoading = false;
             }
         }
 
@@ -126,7 +126,7 @@ namespace EuropeanChampionshipsUniversal.ViewModel
             var settings = Windows.Storage.ApplicationData.Current.LocalSettings;
             settings.Values["login"] = login;
             settings.Values["password"] = password;
-            isLoading = false;
+            //isLoading = false;
             _navigationService.NavigateTo("HomePage", item);
         }
 

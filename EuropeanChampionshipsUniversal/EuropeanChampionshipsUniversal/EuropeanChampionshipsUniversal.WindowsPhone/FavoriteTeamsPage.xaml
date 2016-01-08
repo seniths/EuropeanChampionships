@@ -33,7 +33,7 @@
             <ListView x:Name="teamsList" ItemClick="teamsList_ItemClick" IsItemClickEnabled="True" ItemsSource="{Binding Teams}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <StackPanel Orientation="Horizontal" Background="Red">
+                        <StackPanel Orientation="Horizontal">
                             <TextBlock Text="{Binding Name}" FontSize="35" Margin="0,4,0,4" Padding="4,0,4,0"/>
                         </StackPanel>
                     </DataTemplate>

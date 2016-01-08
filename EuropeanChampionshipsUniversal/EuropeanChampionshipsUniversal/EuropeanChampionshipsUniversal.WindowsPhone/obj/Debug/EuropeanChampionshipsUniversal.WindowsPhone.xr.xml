@@ -29,7 +29,6 @@
     <RootPropertyPathName Name="Home" />
     <RootPropertyPathName Name="GoToFavoriteCommand" />
     <RootPropertyPathName Name="Main" />
-    <RootPropertyPathName Name="IsLoading" />
     <RootPropertyPathName Name="GoToSubscribeCommand" />
     <RootPropertyPathName Name="ConnexionCommand" />
     <RootPropertyPathName Name="Ranking" />
@@ -176,7 +175,6 @@
       <RootProperty Name="Margin" />
       <RootProperty Name="Children" />
       <RootProperty Name="Orientation" />
-      <RootProperty Name="Background" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
       <RootProperty Name="HorizontalAlignment" />
@@ -199,11 +197,6 @@
       <RootProperty Name="Template" />
     </RootType>
     <RootType FullName="EuropeanChampionshipsUniversal.HomePage" />
-    <RootType FullName="Windows.UI.Xaml.Controls.ProgressRing">
-      <RootProperty Name="IsActive" />
-      <RootProperty Name="HorizontalAlignment" />
-      <RootProperty Name="VerticalAlignment" />
-    </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.ContentPresenter" />
     <RootType FullName="EuropeanChampionshipsUniversal.MainPage" />
     <RootType FullName="EuropeanChampionshipsUniversal.RankingPage" />

@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using EuropeanChampionshipsUniversal.Model;
 using System.Net.Http;
 using Newtonsoft.Json;
-using System.Net.Http.Headers;
 using System.Linq;
 
 namespace EuropeanChampionshipsUniversal.DAL
@@ -16,10 +15,7 @@ namespace EuropeanChampionshipsUniversal.DAL
 
         public UsersAPIAccess()
         {
-            client = new HttpClient();
-            client.BaseAddress = new Uri("http://europeanchampionships.azurewebsites.net/");
-            client.DefaultRequestHeaders.Accept.Clear();
-            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+            client = SingletonUsers.GetInstance();
         }
 
         public async Task<bool> AddFavoriteTeam(int idUser, int idTeam)

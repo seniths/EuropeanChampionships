@@ -22,6 +22,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)DAL\ChampionshipsAPIAccess.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DAL\IChampionshipsDataAccess.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DAL\IUsersDataAccess.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DAL\SingletonChampionships.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DAL\SingletonUsers.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DAL\UsersAPIAccess.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Encryption\PasswordEncryption.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Model\AllTeams.cs" />

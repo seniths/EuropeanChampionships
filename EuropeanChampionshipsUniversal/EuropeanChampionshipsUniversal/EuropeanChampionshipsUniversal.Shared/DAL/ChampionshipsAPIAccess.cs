@@ -5,21 +5,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net.Http;
 using Newtonsoft.Json;
-using System.Net.Http.Headers;
 using EuropeanChampionshipsUniversal.Model;
 
 namespace EuropeanChampionshipsUniversal.DAL
 {
     public class ChampionshipsAPIAccess : IChampionshipsDataAccess
     {
-        //classe statique?
-
         private HttpClient client;
 
         public ChampionshipsAPIAccess()
         {
-            client = new HttpClient();
-            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("X-Auth-Token", "be1160826eb441c78cdd69683e05bc2b");
+            //client = new HttpClient();
+            client = SingletonChampionships.GetInstance();
         }
 
         public async Task<int> GetChampionshipIdByTeamId(int idTeam)
